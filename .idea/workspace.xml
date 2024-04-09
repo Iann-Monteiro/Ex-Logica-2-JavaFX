@@ -4,34 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e49a83a-2493-40ff-af0d-71a4c7df6385" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iannmonteiro/projetojavafxjdbc/DepartmentListController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iannmonteiro/projetojavafxjdbc/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iannmonteiro/projetojavafxjdbc/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iannmonteiro/projetojavafxjdbc/MainViewController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iannmonteiro/projetojavafxjdbc/SellerListController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iannmonteiro/projetojavafxjdbc/entities/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iannmonteiro/projetojavafxjdbc/entities/Seller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iannmonteiro/projetojavafxjdbc/services/DepartmentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iannmonteiro/projetojavafxjdbc/services/SellerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iannmonteiro/projetojavafxjdbc/util/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/iannmonteiro/projetojavafxjdbc/util/Constraints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/iannmonteiro/projetojavafxjdbc/About.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/iannmonteiro/projetojavafxjdbc/DepartmentList.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/iannmonteiro/projetojavafxjdbc/MainView.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/iannmonteiro/projetojavafxjdbc/SellerList.fxml" afterDir="false" />
+    <list default="true" id="2e49a83a-2493-40ff-af0d-71a4c7df6385" name="Changes" comment="Terminei">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +48,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/developer/Documentos/JFX/Projeto-JavaFX-JDBC/src/main/resources/org/iannmonteiro/projetojavafxjdbc",
+    "last_opened_file_path": "/home/developer/Documentos/JFX",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -123,11 +97,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712665761397</updated>
-      <workItem from="1712665762528" duration="11958000" />
+      <workItem from="1712665762528" duration="12298000" />
     </task>
+    <task id="LOCAL-00001" summary="Terminei">
+      <option name="closed" value="true" />
+      <created>1712684017908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712684017908</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Terminei" />
+    <option name="LAST_COMMIT_MESSAGE" value="Terminei" />
   </component>
 </project>
