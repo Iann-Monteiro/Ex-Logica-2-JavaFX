@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<VBox prefHeight="369.0" prefWidth="490.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/21">
+   <children>
+      <Label prefHeight="41.0" prefWidth="528.0" text="ABOUT">
+         <font>
+            <Font name="Inter Black" size="28.0" />
+         </font>
+         <padding>
+            <Insets left="240.0" />
+         </padding>
+      </Label>
+      <Label text="javafx.application.demo">
+         <font>
+            <Font name="JetBrains Mono Regular" size="12.0" />
+         </font>
+         <padding>
+            <Insets left="10.0" />
+         </padding>
+      </Label>
+   </children>
+</VBox>
